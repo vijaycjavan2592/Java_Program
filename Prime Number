@@ -2,9 +2,7 @@ package basic_Code;
 
 public class Array {
 
-	/**
-	 * @param args
-	 */
+	
 	public static void main(String[] args) {
 		// Copy of array into array
 		
