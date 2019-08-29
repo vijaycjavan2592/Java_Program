@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25209" started-at="2019-08-29T12:06:09Z" finished-at="2019-08-29T12:06:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25209" started-at="2019-08-29T12:06:09Z" finished-at="2019-08-29T12:06:34Z">
+      <class name="Flipkart_LoginTC.LoginTestCases">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2]" name="startReport" is-config="true" duration-ms="165" started-at="2019-08-29T12:06:09Z" finished-at="2019-08-29T12:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2]" name="browserLaunch" is-config="true" duration-ms="6852" started-at="2019-08-29T12:06:09Z" finished-at="2019-08-29T12:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="loginTC()[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2]" name="loginTC" duration-ms="10808" started-at="2019-08-29T12:06:16Z" finished-at="2019-08-29T12:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTC -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2]" name="getResult" is-config="true" duration-ms="164" started-at="2019-08-29T12:06:27Z" finished-at="2019-08-29T12:06:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTC status=SUCCESS method=LoginTestCases.loginTC()[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2]" name="browserLaunch" is-config="true" duration-ms="6603" started-at="2019-08-29T12:06:27Z" finished-at="2019-08-29T12:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2]" name="verifyPageTitle" duration-ms="163" started-at="2019-08-29T12:06:33Z" finished-at="2019-08-29T12:06:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2]" name="getResult" is-config="true" duration-ms="121" started-at="2019-08-29T12:06:33Z" finished-at="2019-08-29T12:06:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageTitle status=SUCCESS method=LoginTestCases.verifyPageTitle()[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:Flipkart_LoginTC.LoginTestCases@6a41eaa2]" name="endReport" is-config="true" duration-ms="310" started-at="2019-08-29T12:06:34Z" finished-at="2019-08-29T12:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- Flipkart_LoginTC.LoginTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
